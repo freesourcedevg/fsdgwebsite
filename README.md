@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## Welcome Free Source Developer Group's Web page
 
-You can use the [editor on GitHub](https://github.com/freesourcedevg/fsdgwebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Tanıtım :
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Amacımızdan bahsedecek olursak :
 
-### Markdown
+* Başlangıçta kocaeli üniversitesi içerinide geliştirilecek küçük çaplı projelerin ardından genişlemeyi planlayan.
+* zaman içerisinde FSDG bünyesinde uzmanlık alanlarına göre küçük parçalara ayrılan geliştirme guruplarının uzmanlık alanlarındaki yarışmalara.-Game jam, algoritma yarışmaları vb.- katılmaları planlanmaktadır.
+* Kendi ihtiyacına yönelik üzerinde çalıştığı açık kaynak projesini geliştirirken projeye destek verecek geliştiriciler arayan.
+* tüm bunların yanı sıra sadece yazılım camiasında sosyalleşerek yeniliklerden haberdar olmak isteyen insanları bir araya toplamayı amaçlayan bir gurup.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projeler bünyesinde git kullanımı detayları :
 
-```markdown
-Syntax highlighted code block
+* proje oluşturmadan önce md formatında yapılacaklar :
+* proje detaylarının açıklamasının yapılması.
+* projenin ekip büyüklüğünün belirlenmesi ve 7 kişiyi aşmaması.
+* projede çalışacak isimlerin belirlenmesi ve onaylarının alınması.
+* projenin basamaklarının belirlenmesi.
+* projenin tahmini oluşturma süresinin belirlenmesi.
+* var ise projenin katılacağı yarışmanın detaylarının ekte belirtilmesi.
 
-# Header 1
-## Header 2
-### Header 3
+## Katlımcılardan Yanıtlamalarını Beklediklerimiz :
 
-- Bulleted
-- List
+hangi alanda guruba katkıda bulunmayı planladıkları.
 
-1. Numbered
-2. List
+- ilerleyen bölümlerdeki eklemeler ve çıkartmalar daha fazla bilgi sahibi oldukları için ekip liderliğini üstlenen ve/veya destek olan kimselere bırakılmıştır.
 
-**Bold** and _Italic_ and `Code` text
+ - web geliştirme.
+   - Frontend.
+   - Backend.
+   
+ - oyun geliştirme :
+   - Tasarımcı.
+   - Yazılımcı.
+   
+ - masaüstü uygulama geliştime:
+   - C# ile windows.
+   - python ve ya c++ kütüphaneleri olan qt ve/veya gtk ile linux ve/veya windows.
+   
+ - android geliştime:
+   - (bilgim yok.)
 
-[Link](url) and ![Image](src)
-```
+ - Hakkınızda :
+ 
+ - -kişinin kendini tanıtması beklenmektedir. -
+ 
+ - var ise yazılım dışında ilgi alanlarınız: ör. resim müzik vb..
+ 
+ - -kişinin oyun müzikleri ve ya tasarımları ve ya sosyal medya konularında destek olup olamayacağını anlamamız için gerekli. -
+ 
+ - Gurupta ekip kurup liderlik etme üzerine mi yoksa kurulan guruplarda rol almak için mi bulunacakları.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    - detay sorular ilerleyen zamanlarda eklenecektir.
 
-### Jekyll Themes
+      
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freesourcedevg/fsdgwebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* katılımcılardan istenecek şahsi bilgiler:
+  - isim soyisim.
+  - iletişim tel no.
+  - iletişim mail adresi.
